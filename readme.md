@@ -2277,7 +2277,7 @@
         <td align="center" width="600">
         &nbsp;&nbsp
             <a href="https://github.com/Mohammad-Taha-Programmer">
-                <img src="https://avatars.githubusercontent.com/u/147580141?v=4" width="50">
+                <img src="https://avatars.githubusercontent.com/u/93265317?s=400&u=02e52e1538d486e2f2a398247661740b2f4d4f68&v=4" width="50">
                 <br>
                 <h2>محمد أمين طه</h2>
             </a>
